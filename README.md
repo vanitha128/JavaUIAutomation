@@ -16,7 +16,9 @@ Prerequisite:
 1. maven
 2. java
 
-# Docker
+test run command: mvn -e clean install test
+
+# Docker as another option
 Prerequisite: please install docker and run it.
 
 ```
